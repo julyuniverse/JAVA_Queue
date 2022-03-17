@@ -14,7 +14,6 @@ public class LinkedListQueue implements Queue {
     public void enQueue(String data) {
         Node newNode = new Node(data);
 
-
         if (isEmpty()) {
             front = newNode;
         } else {
