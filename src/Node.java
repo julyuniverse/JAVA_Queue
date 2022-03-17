@@ -1,5 +1,3 @@
-package linkedlist;
-
 public class Node {
     // 멤버 변수
     private String data; // 자료
